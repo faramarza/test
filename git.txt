@@ -1,0 +1,5 @@
+1. git status shows whether there are uncommitted stuff
+2. git add -all adds all changes to package
+3. git commit --m "comment" commits and adds a comment
+4. git push asks for user/password and adds to github
+
